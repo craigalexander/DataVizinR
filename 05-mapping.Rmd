@@ -1,4 +1,4 @@
-# Producing maps for plotting
+# (BONUS MATERIAL) Producing maps for plotting
 
 ## Producing maps using ggmap
 
